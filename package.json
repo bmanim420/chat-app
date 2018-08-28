@@ -1,0 +1,26 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmanim420/chat-app.git"
+  },
+  "keywords": [
+    "chatapp"
+  ],
+  "author": "Anim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmanim420/chat-app/issues"
+  },
+  "homepage": "https://github.com/bmanim420/chat-app#readme"
+}
